@@ -4,15 +4,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "sketch-symbols2vue.my-command-identifier",
-      "script": "./my-command.js"
+      "name": "execute",
+      "identifier": "symbols2vue.identifier",
+      "script": "./execute.js"
     }
   ],
   "menu": {
-    "title": "sketch-symbols2vue",
+    "title": "symbols2vue",
     "items": [
-      "sketch-symbols2vue.my-command-identifier"
+      "symbols2vue.identifier"
     ]
   }
 }

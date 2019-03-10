@@ -21,5 +21,8 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.11"
   },
-  "author": "fukuiretu <fukuiretu@gmail.com>"
+  "author": "fukuiretu <fukuiretu@gmail.com>",
+  "dependencies": {
+    "@skpm/fs": "^0.2.4"
+  }
 }
